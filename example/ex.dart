@@ -1,4 +1,4 @@
-import 'package:test_twoFiles/test_twoFiles.dart';
+import 'package:test_library/test_library.dart';
 main() {
 var width = 45;
 var height = 100;
